@@ -1,0 +1,9 @@
+name: Nice_Chat
+version: ${project.version}
+main: no.nice_chat.Nice_Chat
+
+commands:
+  nicechat:
+    description: /nicechat または /n で使います。[用法] /n Color TEXT または/n random name text
+    aliases:
+      - n
